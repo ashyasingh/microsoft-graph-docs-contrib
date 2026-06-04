@@ -14,8 +14,8 @@
       "Id": "3c36af46-909a-4c94-a101-6c77c48c9d66",
       "Cloud": "Prod",
       "Version": "v1.0",
-      "CreatedDateTime": "2026-05-21T00:00:00.000Z",
-      "WorkloadArea": "Identity and access",
+      "CreatedDateTime": "2026-05-29T00:00:00.000Z",
+      "WorkloadArea": "Groups",
       "SubArea": ""
     },
     {
